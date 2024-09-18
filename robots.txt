@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://goazl.github.io/Mgr/sitemap.Mgr.gz
